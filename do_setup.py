@@ -13,8 +13,8 @@ setuptools.setup(name='PickleQueue',
       long_description_content_type='text/markdown',
       author='Oliver',
       author_email='mail.ok65@googlemail.com',
-      url='https://github.com/ok65/sigbox',
-      packages=['sigbox'],
+      url='https://github.com/ok65/pickle_queue',
+      packages=['pickle_queue'],
      )
 """
 with open("setup.py", "w+") as fp:
